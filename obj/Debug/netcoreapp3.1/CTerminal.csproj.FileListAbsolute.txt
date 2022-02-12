@@ -1,0 +1,13 @@
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\bin\Debug\netcoreapp3.1\CTerminal.exe
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\bin\Debug\netcoreapp3.1\CTerminal.deps.json
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\bin\Debug\netcoreapp3.1\CTerminal.runtimeconfig.json
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\bin\Debug\netcoreapp3.1\CTerminal.runtimeconfig.dev.json
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\bin\Debug\netcoreapp3.1\CTerminal.dll
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\bin\Debug\netcoreapp3.1\CTerminal.pdb
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\obj\Debug\netcoreapp3.1\CTerminal.csprojAssemblyReference.cache
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\obj\Debug\netcoreapp3.1\CTerminal.AssemblyInfoInputs.cache
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\obj\Debug\netcoreapp3.1\CTerminal.AssemblyInfo.cs
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\obj\Debug\netcoreapp3.1\CTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\obj\Debug\netcoreapp3.1\CTerminal.dll
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\obj\Debug\netcoreapp3.1\CTerminal.pdb
+C:\Users\Heath\Documents\Code stuff\C#\CTerminal\CTerminal\obj\Debug\netcoreapp3.1\CTerminal.genruntimeconfig.cache

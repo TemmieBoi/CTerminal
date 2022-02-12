@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnFfzrdXi9MIrUCscAq/GySt05HuwO420yarV3DmMxT2r6lr17n4poo89HDRkS+iQ4vEjyIpmeQxveEIqfSggw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Heath\\Documents\\Code stuff\\C#\\CTerminal\\CTerminal\\CTerminal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heath\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
